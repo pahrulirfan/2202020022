@@ -1,0 +1,25 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box {
+    border: 1px dashed blue;
+}
+
+.besar {
+    font-size: xx-large;
+}
+
+.hijau {
+    background-color: red;
+}
+
+h2 {
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid black;
+}
+
+p {
+    color: red;
+}
